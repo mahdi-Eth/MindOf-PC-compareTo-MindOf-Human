@@ -1,2 +1,10 @@
 # MindOf-PC-compareTo-MindOf-Human
-A little comparing between the process of computer and human's mind.  
+### A little comparing between the process of computer and human's mind.  
+
+Today, when I was programming and I was using some functions that I had made, and this interesting thought hit me. How similar is this process to the activity of the human brain?
+
+In programming, if we create a function and define the process of calculations in it, we can call the infinite disposal of that function and implement that operation on our parameters, we will eventually forget what the calculations were and we will only see and understand the input and outputs.It is as if the process has become unconscious!
+
+Now let's see the process of the human brain.When they ask you to Multiply 18 by 4, You start calculating and you go through the whole process of calculation in your mind and you do it consciously(probably because this process is not yet become unconscious in our evolution period).what happens now? It is like you are coding in your IDE, but what are you coding? you are making a variable and put all the calculation in it and then print it and if they ask the same question later you will do this again. But when they show you a picture of Elon musk what happens? You just see the picture and after a few moments you feel that it looks familiar and a few moments later you know that the person in the picture is Elon Musk. But this process was not the same as the process above, this time you were not aware of the process of your brain operation, the operation in which you'r mind have to perform an operation and receive information from the database and print it.
+
+It seems that the intense need and use of some processes has turned them into functions in our evolutionary process (I liken functions to the subconscious), and when we see a picture, it's actually like we just call a function and  we pass the parameter(the picture we saw) to it and the function performs these calculations and returns the output to us, **and we only understand the input and output!**
